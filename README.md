@@ -1,0 +1,1 @@
+This is a text based game of different challenges you facing through different challenges. You can play this by running the python code in game.py. It is a fun and fast paced game using the random library. Have fun playing!
